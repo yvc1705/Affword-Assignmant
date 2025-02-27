@@ -1,0 +1,31 @@
+.drag-drop-board {
+  display: flex;
+  justify-content: space-around;
+}
+
+.drag-drop-comp {
+  width: 30%;
+  min-height: 80vh;
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.drag-drop-pending {
+  background-color: #ffcdd2; /* Light red */
+}
+
+.drag-drop-completed {
+  background-color: #fff9c4; /* Light yellow */
+}
+
+.drag-drop-done {
+  background-color: #c8e6c9; /* Light green */
+}
+
+.drag-drop-comp h2 {
+  text-align: center;
+}
+.nav-task-main {
+  
+}
